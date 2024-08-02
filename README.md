@@ -1,15 +1,8 @@
-# News Demo starter files
+# Go News App
 
-Starter files for the News application built with Go. Tutorial:
+Completed from starter files for the News application built with Go. 
+Followed tutorial:
 https://freshman.tech/web-development-with-go/
-
-Here's what the [completed application](https://freshman-news.herokuapp.com/)
-looks like:
-
-![demo](https://ik.imagekit.io/freshman/news-demo_MrYio9GKlzSi.png)
-
-The code in this repo is meant to be a starting point for anyone following
-along with the tutorial.
 
 ## Prerequisites
 
