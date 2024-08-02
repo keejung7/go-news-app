@@ -7,7 +7,7 @@ https://freshman.tech/web-development-with-go/
 ## Prerequisites
 
 You need to have [Go](https://golang.org/dl/) installed on your computer. The
-version used to test the code in the tutorial is **1.15.3**.
+version used to test the code in the tutorial is **1.22.5**.
 
 ## Get started
 
